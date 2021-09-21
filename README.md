@@ -1,0 +1,1 @@
+Lorenz distribution has a nice inverse function for its CDF which means that inverse transformation method can be applied. I sample Lorenz-distributed variables by generating numbers from from the standard uniform distribution and then putting them into inverse function.
